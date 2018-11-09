@@ -1,5 +1,3 @@
-import _pickle as cPickle
-import gzip
 import numpy
 from keras.models import Sequential
 from keras.layers import Dense
